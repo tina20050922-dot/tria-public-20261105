@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="60 35 440 380" role="img" aria-labelledby="t d">
+  <title id="t">Architecture icon</title><desc id="d">Stylized architectural skyline with ARCHITECTURE label</desc>
+  <g fill="none" stroke="#30343a" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round">
+    <path vector-effect="non-scaling-stroke" d="M125 365V238l58-34v161M183 204V116l84-48v297M267 175l65 37v153M332 212l61 35v118M98 365V266l27-16M393 247l58 34v84"/>
+    <path vector-effect="non-scaling-stroke" d="M239 365V257h28M300 365V286h32"/>
+  </g>
+  
+</svg>

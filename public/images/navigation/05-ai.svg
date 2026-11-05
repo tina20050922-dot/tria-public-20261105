@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="t d">
+  <title id="t">AI icon</title><desc id="d">Connected neural network with AI label</desc>
+  <g stroke="#30343a" stroke-linecap="round" stroke-linejoin="round">
+    <g fill="none" stroke-width="8">
+      <path d="M151 128l82 82 67-117 68 117 81-82M151 128l49 125-49 92M449 128l-49 125 49 92M151 345l82-82 67 80 68-80 81 82M233 210l-33 43 33 10M368 210l32 43-32 10M233 210l67 133 68-133M233 263l67-170 68 170M200 253h200"/>
+    </g>
+    <g fill="#30343a" stroke="none">
+      <circle cx="151" cy="128" r="20"/><circle cx="300" cy="93" r="20"/><circle cx="449" cy="128" r="20"/>
+      <circle cx="200" cy="253" r="20"/><circle cx="400" cy="253" r="20"/>
+      <circle cx="151" cy="345" r="20"/><circle cx="300" cy="343" r="20"/><circle cx="449" cy="345" r="20"/>
+      <circle cx="233" cy="210" r="14"/><circle cx="368" cy="210" r="14"/><circle cx="233" cy="263" r="14"/><circle cx="368" cy="263" r="14"/>
+    </g>
+  </g>
+  <text x="300" y="500" fill="#30343a" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="600" text-anchor="middle" letter-spacing="4">AI</text>
+</svg>

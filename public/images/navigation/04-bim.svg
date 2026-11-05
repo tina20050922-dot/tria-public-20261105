@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="60 35 440 380" role="img" aria-labelledby="t d">
+  <title id="t">BIM icon</title><desc id="d">Isometric information cube with BIM label</desc>
+  <g fill="none" stroke="#30343a" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round">
+    <path vector-effect="non-scaling-stroke" d="M300 51l147 85v170l-147 85-147-85V136L300 51z"/>
+    <path vector-effect="non-scaling-stroke" d="M153 136l147 85 147-85M300 221v170"/>
+    <path vector-effect="non-scaling-stroke" d="M263 101l8-5m21 2l8 5m22 8l8 5m-73 14l8 5m22 8l8 5m22 8l8 5" stroke-width="1.25"/>
+    <path vector-effect="non-scaling-stroke" d="M193 194l9 5m17 10l9 5m17 10l9 5m-52 20l9 5m17 10l9 5m17 10l9 5m-61 14l9 5m17 10l9 5" stroke-width="1.25"/>
+    <path vector-effect="non-scaling-stroke" d="M347 243l9-5m18-10l9-5m-36 58l9-5m18-10l9-5m-36 58l9-5m18-10l9-5" stroke-width="1.25"/>
+  </g>
+  
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="30 20 540 420" role="img" aria-labelledby="t d">
+  <title id="t">MEP icon</title><desc id="d">Building services skyline with MEP label</desc>
+  <g fill="none" stroke="#30343a" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke-width="1.25">
+      <path vector-effect="non-scaling-stroke" d="M78 363h444M105 363V219h74v144M208 363V150h67v213M306 363V99h74v264M409 363V190h75v173"/>
+      <path vector-effect="non-scaling-stroke" d="M126 363V270h31v93M228 363V219h28v144M329 363V163h29v200M431 363V245h31v118"/>
+    </g>
+    <g stroke-width="1.25" stroke-dasharray="3 20">
+      <path vector-effect="non-scaling-stroke" d="M142 201V104M242 132V55M343 79V20M447 171V83M497 303V137M92 321V268"/>
+    </g>
+    <path vector-effect="non-scaling-stroke" d="M293 363V241h100v122M293 241l50-42 50 42" stroke-width="1.25"/>
+  </g>
+  
+</svg>

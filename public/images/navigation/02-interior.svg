@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="60 35 440 380" role="img" aria-labelledby="t d">
+  <title id="t">Interior icon</title><desc id="d">Interior room in a house outline with INTERIOR label</desc>
+  <g fill="none" stroke="#30343a" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round">
+    <path vector-effect="non-scaling-stroke" d="M121 365V151l179-103 179 103v214H121z"/>
+    <path vector-effect="non-scaling-stroke" d="M300 48v99M280 167a20 20 0 1 0 40 0 20 20 0 1 0-40 0z"/>
+    <path vector-effect="non-scaling-stroke" d="M181 365V255h60v110M201 294h20M351 365v-61h79v61M365 304v-36h48v36M374 268v-30M404 268v-30"/>
+    <path vector-effect="non-scaling-stroke" d="M278 365v-44h40v44M278 321l-15-42M318 321l18-42"/>
+  </g>
+  
+</svg>
